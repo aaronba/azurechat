@@ -1,4 +1,4 @@
-# What's new - 2025 -
+# What's new - 2025 - -
 
 A new year brings some much requested feature updates to one of our most popular AI chat repos!
 
